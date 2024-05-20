@@ -1,7 +1,7 @@
 ![logo](https://github.com/alijabhujel/alijabhujel/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Alija Bhujel</h1>
 <h3 align="center">A passionate Flutter learner and UI/UX enthusiast</h3>
-
+<img align="right" alt="Coding + Designing" width ="400" src="https://i.pinimg.com/originals/0b/13/d4/0b13d4853679e37ec02d9289377fc109.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alijabhujel&label=Profile%20views&color=0e75b6&style=flat" alt="alijabhujel" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alijabhujel" alt="alijabhujel" /></a> </p>
