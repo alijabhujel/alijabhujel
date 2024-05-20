@@ -1,3 +1,4 @@
+![logo](https://github.com/alijabhujel/alijabhujel/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Alija Bhujel</h1>
 <h3 align="center">A passionate Flutter learner and UI/UX enthusiast</h3>
 <img align="right" alt="Coding + Designing" width ="400" src="https://i.pinimg.com/originals/0b/13/d4/0b13d4853679e37ec02d9289377fc109.gif">
